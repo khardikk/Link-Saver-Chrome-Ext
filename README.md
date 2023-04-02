@@ -20,16 +20,9 @@ Link Saver is a Chrome extension that helps you save your favorite links and imp
 3. Turn on "Developer mode" in the top right corner.
 4. Click on "Load unpacked" and select the directory where you downloaded the repository.
 
-## Usage
-
-Once installed, you can start using the Link Saver extension right away. Simply click the "Save Link" button to save a link, or the "Save Tabs" button to save all currently open tabs. You can organize your saved links and tabs into folders by clicking the "Create Folder" button, and then dragging and dropping your links and tabs into the desired folder.
-
-To access your saved links and tabs later, click the extension icon in your Chrome toolbar. You can search for a specific link or tab using the search bar at the top of the page.
 
 ## Contributing
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue on GitHub. If you'd like to contribute code, please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
