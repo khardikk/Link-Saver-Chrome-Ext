@@ -2,6 +2,9 @@
 
 Link Saver is a Chrome extension that helps you save your favorite links and important tabs all in one place. The extension is written in JavaScript, CSS, HTML, and manifest.json.
 
+
+![image](https://user-images.githubusercontent.com/64458111/229372140-7219c537-5a04-4ebf-9bd1-12b3690126a3.png)
+
 ## Features
 
 - Save links: Save any link with just one click. No need to copy and paste URLs.
