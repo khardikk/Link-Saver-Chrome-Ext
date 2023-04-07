@@ -1,0 +1,25 @@
+# Build artifacts
+dist/
+build/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.idea
+*.iml
+
+# Chrome and browser extension files
+*.pem
+*.crx
+*.key
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
